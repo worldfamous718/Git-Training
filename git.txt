@@ -1,3 +1,7 @@
 This is sample text to commit.
 Now I need to see if any of these changes are tracked.
 I just deleted a line. Now I want to check version control. What if I need that line back. What all would I do?
+
+Adding update from Pycharm. Seeing if it ports properly
+
+Im not seeing the updates on desktop now. This is from original txt file, not Pycharm
