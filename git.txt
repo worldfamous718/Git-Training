@@ -1,1 +1,3 @@
 This is sample text to commit.
+Now I need to see if any of these changes are tracked.
+This is all new text
