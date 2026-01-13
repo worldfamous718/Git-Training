@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="git-training-logo.png" width="200" alt="Git Training Logo">
+  <img src=https://github.com/worldfamous718/Git-Training/blob/master/.idea/resized-banner.png>
 </p>
 
-<h1 align="center">Git-Training</h1>
 
 <p align="center">
-  <strong>Tracking my progress learning Git, GitHub Flow, and version control best practices.</strong>
+  <strong><h2>Tracking my progress learning Git, GitHub Flow, and version control best practices.</h2></strong>
 </p>
 
 <p align="center">
